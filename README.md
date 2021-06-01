@@ -1,4 +1,5 @@
-# Commission status: <span style="color:red">**Closed**</span>
+# Commission information & art gallery
+[![Generic badge](https://img.shields.io/badge/Commissions-Closed-red.svg)](https://shields.io/)
 
 This repository contains my commission informations and prices, example pieces, 
 as well as personal and commission artwork that clients authorized to be public.
